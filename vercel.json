@@ -8,6 +8,7 @@
     { "src": "/(.*)",  "dest": "/api/index.php" }
   ],
   "static": {
-    "directory": "."
-  }
+    "directory": "/public/assets/core/dist"
+  },
+  "outputDirectory": "my-output-dir"
 }
