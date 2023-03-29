@@ -6,8 +6,5 @@
   },
   "routes": [
     { "src": "/(.*)",  "dest": "/api/index.php" }
-  ],
-  "static": {
-    "directory": "/public/assets/core/dist"
-  }
+  ]
 }
