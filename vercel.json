@@ -9,6 +9,5 @@
   ],
   "static": {
     "directory": "/public/assets/core/dist"
-  },
-  "outputDirectory": "my-output-dir"
+  }
 }
